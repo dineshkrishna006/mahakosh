@@ -26,7 +26,7 @@ export function ImagesSliderDemo() {
           x: 10,
         }}
         transition={{
-          duration: 3,
+          duration: 0.5,
         }}
         className="z-50 flex flex-col justify-center items-center"
       >
