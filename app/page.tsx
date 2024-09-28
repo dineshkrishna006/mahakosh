@@ -8,11 +8,11 @@ import "react-responsive-carousel/lib/styles/carousel.min.css";
 export default function Home() {
   return (
     <div>
-      {/* <main className="flex h-[94vh]  flex-col items-center justify-center">
+      <main className="flex h-[94vh]  flex-col items-center justify-center">
         <ImagesSliderDemo />
-      </main> */}
+      </main>
       <div>
-        <Section2/>
+        <Section2 />
       </div>
     </div>
   );
